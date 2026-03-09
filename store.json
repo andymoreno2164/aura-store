@@ -1,0 +1,99 @@
+{
+  "ai": [
+    { "name": "openai", "desc": "API de inteligencia artificial" },
+    { "name": "transformers", "desc": "Modelos de IA" }
+  ],
+
+  "vision": [
+    { "name": "opencv-python", "desc": "Visión por computadora" }
+  ],
+
+  "voz": [
+    { "name": "pyttsx3", "desc": "Texto a voz offline" }
+  ],
+
+  "audio": [
+    { "name": "pydub", "desc": "Procesamiento de audio" }
+  ],
+
+  "red": [
+    { "name": "requests", "desc": "Cliente HTTP para Python" },
+    { "name": "scapy", "desc": "Análisis de red" }
+  ],
+
+  "bluetooth": [
+    { "name": "pybluez", "desc": "Comunicación Bluetooth" }
+  ],
+
+  "hardware": [
+    { "name": "pyserial", "desc": "Comunicación con hardware serial" }
+  ],
+
+  "iot": [
+    { "name": "paho-mqtt", "desc": "Cliente MQTT para IoT" }
+  ],
+
+  "web": [
+    { "name": "flask", "desc": "Servidor web ligero" }
+  ],
+
+  "api": [
+    { "name": "fastapi", "desc": "Framework moderno para APIs" }
+  ],
+
+  "scraping": [
+    { "name": "beautifulsoup4", "desc": "Scraping web HTML" }
+  ],
+
+  "juegos": [
+    { "name": "pygame", "desc": "Motor de juegos 2D" }
+  ],
+
+  "graficos": [
+    { "name": "matplotlib", "desc": "Gráficos científicos" }
+  ],
+
+  "gui": [
+    { "name": "kivy", "desc": "Framework para interfaces gráficas" }
+  ],
+
+  "datos": [
+    { "name": "pandas", "desc": "Análisis de datos" }
+  ],
+
+  "ciencia": [
+    { "name": "numpy", "desc": "Cálculo científico" },
+    { "name": "scipy", "desc": "Herramientas científicas" }
+  ],
+
+  "seguridad": [
+    { "name": "python-nmap", "desc": "Escaneo de red con nmap" }
+  ],
+
+  "automatizacion": [
+    { "name": "pyautogui", "desc": "Automatización del teclado y mouse" }
+  ],
+
+  "util": [
+    { "name": "tqdm", "desc": "Barras de progreso" }
+  ],
+
+  "terminal": [
+    { "name": "rich", "desc": "Terminal avanzada con colores" }
+  ],
+
+  "plugins": [
+    { "name": "aura-vision", "desc": "Plugin de visión para AURA" },
+    { "name": "aura-voice", "desc": "Plugin de voz para AURA" }
+  ],
+
+  "top": [
+    { "name": "numpy", "desc": "Paquete científico popular" },
+    { "name": "requests", "desc": "HTTP para Python" },
+    { "name": "rich", "desc": "Terminal avanzada" }
+  ],
+
+  "experimental": [
+    { "name": "langchain", "desc": "Framework experimental de IA" }
+  ]
+}
